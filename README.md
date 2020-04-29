@@ -1,2 +1,2 @@
-# PolyQuest_PoC_Playtest
-Proof of Concept build of PolyQuest
+# PolyQuest_PoC
+Playtest of proof of concept build of PolyQuest
